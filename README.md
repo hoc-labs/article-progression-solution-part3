@@ -1,1 +1,1 @@
-# article-progression-solution-part3
+[Lab Link](https://github.com/hoc-labs/article-progression#readme)
